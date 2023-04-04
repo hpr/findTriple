@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "strict": false,
+    "composite": true,
+    "module": "esnext",
+    "moduleResolution": "node"
+  }
+}
